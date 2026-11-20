@@ -15,7 +15,7 @@
 - So sánh **Stop-and-Wait ARQ** và **Go-Back-N ARQ** theo tỷ lệ mất gói $p$ và khảo sát ảnh hưởng của kích thước cửa sổ $N \in \{4, 8, 16\}$.
 
 ---
-Bộ tham số mặc định trong thực nghiệm chuẩn
+Bộ tham số mặc định trong thực nghiệm chuẩn \n
 Số lượng gói tin: 500
 Thời gian truyền 1 khung t_frame (ms): 1.0
 Trễ lan truyền 1 chiều t_prop (ms): 10.0
